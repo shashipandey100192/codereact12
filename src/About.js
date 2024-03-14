@@ -22,7 +22,7 @@ export function About1()
     const a =  600;
     const b =800;
     let c= 10;
-    let page = false;
+    let page = true;
 
     return(
         <div>
